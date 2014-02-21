@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- COMMONS -->
+    <string name="app_name">Notification Styles</string>
+    <string name="normal">Normal</string>
+    <string name="normal_with_actions">Normal with Actions</string>
+    <string name="big_text_style">Big Text Style</string>
+    <string name="big_picture_style">Big Picture Style</string>
+    <string name="inbox_style">Inbox Style</string>
+    <string name="custom_view">Custom View</string>
+
+    <!-- BIG PICTURE NOTIFICATION -->
+    <string name="notification_big_picture_title_normal">Big Picture Normal</string>
+    <string name="notification_big_picture_content_normal">This is an example of a Big Picture Notification.</string>
+    <string name="notification_big_picture_title_expanded">Big Picture Expanded</string>
+    <string name="notification_big_picture_summary_expanded">Summary big picture.</string>
+
+    <!-- INBOX STYLE NOTIFICATION -->
+    <string name="notification_inbox_title_normal">Inbox Style Normal</string>
+    <string name="notification_inbox_content_normal">This is an example of a Inbox Style.</string>
+    <string name="notification_inbox_title_expanded">Inbox Style Expanded</string>
+    <string name="notification_inbox_summary_expanded">+2 more Line Samples</string>
+    <string name="notification_inbox_line">This is line: </string>
+
+    <!-- BIG PICTURE NOTIFICATION -->
+    <string name="notification_big_text_title_normal">Big Picture Normal</string>
+    <string name="notification_big_text_content_normal">This is an example of a Big Text Notification.</string>
+    <string name="notification_big_text_big_text">This is a big Notification, so you can set your very very very big text without problems.</string>
+    <string name="notification_big_text_title_expanded">Big Text Normal</string>
+    <string name="notification_big_text_summary_expanded">Summary big text.</string>
+
+    <!-- CUSTOM VIEW NOTIFICATION -->
+    <string name="notification_custom_view_inside">Inside custom view</string>
+    <string name="notification_custom_view_toast">Only API 16 and upper</string>
+    <string name="notification_custom_view_title_normal">Custom View</string>
+
+    <!-- NORMAL NOTIFICATION -->
+    <string name="notification_normal_title_normal">Normal Notification</string>
+    <string name="notification_normal_content_normal">This is an example of a Normal Notification.</string>
+
+    <!-- NORMAL WITH ACTIONS NOTIFICATION -->
+    <string name="notification_normal_with_actions_title_normal">Normal with Actions Notification</string>
+    <string name="notification_normal_with_actions_content_normal">This is an example of a Normal Notification.</string>
+    <string name="notification_normal_with_actions_action_one">Action 1</string>
+    <string name="notification_normal_with_actions_action_two">Action 2</string>
+
+</resources>

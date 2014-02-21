@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <Button
+        android:id="@+id/btn__main_normal"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:text="@string/normal" />
+
+    <Button
+        android:id="@+id/btn__main_normal_with_actions"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:text="@string/normal_with_actions" />
+
+    <Button
+        android:id="@+id/btn__main_big_text"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:text="@string/big_text_style" />
+
+    <Button
+        android:id="@+id/btn__main_big_picture"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:text="@string/big_picture_style" />
+
+    <Button
+        android:id="@+id/btn__main_inbox"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:text="@string/inbox_style" />
+
+    <Button
+        android:id="@+id/btn__main_custom_view"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:text="@string/custom_view" />
+
+</LinearLayout>
